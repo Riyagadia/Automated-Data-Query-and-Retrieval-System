@@ -1,0 +1,6 @@
+_id,ProductID,ProductName,Category,Price,Rating,ReviewCount,Stock,Discount,Brand,LaunchDate
+66ec77099017aa2bfe2a7863,101,Wireless Mouse,Electronics,25.99,4.5,200,150,10.0,Logitech,2022-01-15 00:00:00
+66ec77099017aa2bfe2a7864,102,Gaming Keyboard,Electronics,75.49,4.7,350,85,5.0,Corsair,2021-11-20 00:00:00
+66ec77099017aa2bfe2a7865,103,Noise Cancelling Headphones,Electronics,199.99,4.8,125,60,15.0,Sony,2021-09-05 00:00:00
+66ec77099017aa2bfe2a7867,105,Smartwatch,Electronics,159.99,4.6,220,45,10.0,Apple,2022-03-30 00:00:00
+66ec77099017aa2bfe2a786b,109,Smart TV,Electronics,399.99,4.7,150,25,15.0,Samsung,2022-06-10 00:00:00
